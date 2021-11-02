@@ -1,0 +1,10 @@
+.idea
+.jenkins/jobs/General-Python-Project/builds/*
+*/*.bak
+*.pyc
+*/*.pyc
+*/*/*.pyc
+*/*/*/*.pyc
+*/*/*/*/*.pyc
+*/*/*/*/*/*.pyc
+*/*/*/*/*/*/*.pyc

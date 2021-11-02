@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-11-02 07:34:52.188 UTC</timestamp>
+  <md5sum>1c6032441aec11b523e1a7bfa96d60cf</md5sum>
+  <fileName>com.zaxxer:SparseBitSet-1.2.jar</fileName>
+  <usages>
+    <entry>
+      <string>seleniu-webdriver-cucumber</string>
+      <ranges>4-5</ranges>
+    </entry>
+    <entry>
+      <string>seleniu-webdriver-cucumber/org.example:athena-web-automation</string>
+      <ranges>4-5</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

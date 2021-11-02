@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-11-02 07:34:51.913 UTC</timestamp>
+  <md5sum>8f84e33a1c06b8fd16b4166b9fc8331b</md5sum>
+  <fileName>com.fasterxml.jackson.core:jackson-core-2.10.3.jar</fileName>
+  <usages>
+    <entry>
+      <string>seleniu-webdriver-cucumber</string>
+      <ranges>4-5</ranges>
+    </entry>
+    <entry>
+      <string>seleniu-webdriver-cucumber/org.example:athena-web-automation</string>
+      <ranges>4-5</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-11-02 07:34:52.588 UTC</timestamp>
+  <md5sum>e8325763fd4235f174ab7b72ed815db1</md5sum>
+  <fileName>xalan:serializer-2.7.2.jar</fileName>
+  <usages>
+    <entry>
+      <string>seleniu-webdriver-cucumber</string>
+      <ranges>4-5</ranges>
+    </entry>
+    <entry>
+      <string>seleniu-webdriver-cucumber/org.example:athena-web-automation</string>
+      <ranges>4-5</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

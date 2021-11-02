@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-11-02 07:34:51.112 UTC</timestamp>
+  <md5sum>99095533fed23bc6c2437954347b56e8</md5sum>
+  <fileName>io.cucumber:docstring-6.11.0.jar</fileName>
+  <usages>
+    <entry>
+      <string>seleniu-webdriver-cucumber</string>
+      <ranges>4-5</ranges>
+    </entry>
+    <entry>
+      <string>seleniu-webdriver-cucumber/org.example:athena-web-automation</string>
+      <ranges>4-5</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-11-02 07:13:28.111 UTC</timestamp>
+  <md5sum>ce1d8a5a70292211809173eb5deb4669</md5sum>
+  <fileName>Credential id=5b023d77-93a5-418e-9706-b9c9695c6581 name=test/******</fileName>
+  <usages>
+    <entry>
+      <string>seleniu-webdriver-cucumber</string>
+      <ranges>1-5</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

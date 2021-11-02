@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-11-02 07:34:52.506 UTC</timestamp>
+  <md5sum>4a37023740719b391f10030362c86be6</md5sum>
+  <fileName>org.apache.commons:commons-collections4-4.4.jar</fileName>
+  <usages>
+    <entry>
+      <string>seleniu-webdriver-cucumber</string>
+      <ranges>4-5</ranges>
+    </entry>
+    <entry>
+      <string>seleniu-webdriver-cucumber/org.example:athena-web-automation</string>
+      <ranges>4-5</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

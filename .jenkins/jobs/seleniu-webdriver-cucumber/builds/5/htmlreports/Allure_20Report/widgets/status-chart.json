@@ -1,0 +1,41 @@
+[ {
+  "uid" : "3e3883bc18ffbdca",
+  "name" : "search with valid key and invalid key",
+  "time" : {
+    "start" : 1635838643977,
+    "stop" : 1635838666196,
+    "duration" : 22219
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7efaf5f6f0b900c3",
+  "name" : "search with valid key",
+  "time" : {
+    "start" : 1635838643977,
+    "stop" : 1635838666390,
+    "duration" : 22413
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5d344c8420916f9c",
+  "name" : "search with valid key and invalid key",
+  "time" : {
+    "start" : 1635838643982,
+    "stop" : 1635838666955,
+    "duration" : 22973
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6629fc14253b06cd",
+  "name" : "search with valid key and invalid key",
+  "time" : {
+    "start" : 1635838643986,
+    "stop" : 1635838667226,
+    "duration" : 23240
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

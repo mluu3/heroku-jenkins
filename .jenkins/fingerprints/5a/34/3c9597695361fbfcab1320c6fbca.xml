@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-11-02 07:34:50.943 UTC</timestamp>
+  <original>
+    <name>seleniu-webdriver-cucumber/org.example:athena-web-automation</name>
+    <number>4</number>
+  </original>
+  <md5sum>5a343c9597695361fbfcab1320c6fbca</md5sum>
+  <fileName>org.example:athena-web-automation:pom.xml</fileName>
+  <usages>
+    <entry>
+      <string>seleniu-webdriver-cucumber</string>
+      <ranges>4-5</ranges>
+    </entry>
+    <entry>
+      <string>seleniu-webdriver-cucumber/org.example:athena-web-automation</string>
+      <ranges>4-5</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

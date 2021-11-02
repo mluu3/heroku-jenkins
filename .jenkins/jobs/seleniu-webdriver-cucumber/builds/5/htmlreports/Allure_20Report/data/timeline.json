@@ -1,0 +1,77 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Karross-MacBook-Pro.local",
+    "children" : [ {
+      "name" : "22316@Karross-MacBook-Pro.local.TestNG-PoolService-1(22)",
+      "children" : [ {
+        "name" : "search with valid key and invalid key",
+        "uid" : "5d344c8420916f9c",
+        "parentUid" : "f06f6a9d467983ba6b630ab791a52e4c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635838643982,
+          "stop" : 1635838666955,
+          "duration" : 22973
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Vung Tau, VN", "Vung Tau" ]
+      } ],
+      "uid" : "f06f6a9d467983ba6b630ab791a52e4c"
+    }, {
+      "name" : "22316@Karross-MacBook-Pro.local.TestNG-PoolService-0(21)",
+      "children" : [ {
+        "name" : "search with valid key and invalid key",
+        "uid" : "3e3883bc18ffbdca",
+        "parentUid" : "357309e94a71214225f719d0169c8e48",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635838643977,
+          "stop" : 1635838666196,
+          "duration" : 22219
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Hanoi, VN", "Ha Noi" ]
+      } ],
+      "uid" : "357309e94a71214225f719d0169c8e48"
+    }, {
+      "name" : "22316@Karross-MacBook-Pro.local.TestNG-PoolService-2(23)",
+      "children" : [ {
+        "name" : "search with valid key and invalid key",
+        "uid" : "6629fc14253b06cd",
+        "parentUid" : "6c19ac70fbfeabb1540302f2a3869cb2",
+        "status" : "failed",
+        "time" : {
+          "start" : 1635838643986,
+          "stop" : 1635838667226,
+          "duration" : 23240
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Fail test 1", "Ha Noi" ]
+      } ],
+      "uid" : "6c19ac70fbfeabb1540302f2a3869cb2"
+    }, {
+      "name" : "22316@Karross-MacBook-Pro.local.TestNG-test=Search-1(19)",
+      "children" : [ {
+        "name" : "search with valid key",
+        "uid" : "7efaf5f6f0b900c3",
+        "parentUid" : "ac04b6146b5b0076d02946d4db3ba0ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635838643977,
+          "stop" : 1635838666390,
+          "duration" : 22413
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ac04b6146b5b0076d02946d4db3ba0ba"
+    } ],
+    "uid" : "9f08e0858adfc53d3d8d8d7ef58a27e8"
+  } ]
+}

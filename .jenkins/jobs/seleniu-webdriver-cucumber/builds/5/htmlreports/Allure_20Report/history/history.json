@@ -1,0 +1,79 @@
+{
+  "44a17d2b2f85bf99b5a7ec1b1de1cd17" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3e3883bc18ffbdca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635838643977,
+        "stop" : 1635838666196,
+        "duration" : 22219
+      }
+    } ]
+  },
+  "6014ff24b6655a53b15c3bde579c9dbd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5d344c8420916f9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635838643982,
+        "stop" : 1635838666955,
+        "duration" : 22973
+      }
+    } ]
+  },
+  "ce053683588b2c03974371794d9e7077" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7efaf5f6f0b900c3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635838643977,
+        "stop" : 1635838666390,
+        "duration" : 22413
+      }
+    } ]
+  },
+  "f3d73cad725da94dfd3f2208e920ff6e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6629fc14253b06cd",
+      "status" : "failed",
+      "statusDetails" : "\nExpecting actual's toString() to return:\n  \"Fail test 1\"\nbut was:\n  \"Hanoi, VN\"",
+      "time" : {
+        "start" : 1635838643986,
+        "stop" : 1635838667226,
+        "duration" : 23240
+      }
+    } ]
+  }
+}

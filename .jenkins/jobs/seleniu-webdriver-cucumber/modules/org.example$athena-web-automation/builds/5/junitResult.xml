@@ -1,0 +1,59 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<result plugin="junit@1.53">
+  <suites>
+    <suite>
+      <file>/Users/karros/.jenkins/workspace/seleniu-webdriver-cucumber/target/surefire-reports/TEST-TestSuite.xml</file>
+      <name>TestSuite</name>
+      <duration>34.637</duration>
+      <time>34.637</time>
+      <enclosingBlocks/>
+      <enclosingBlockNames/>
+      <cases>
+        <case>
+          <duration>27.605</duration>
+          <className>runners.TestParallelRunner</className>
+          <testName>runScenario</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>28.202</duration>
+          <className>runners.TestParallelRunner</className>
+          <testName>runScenario</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>28.479</duration>
+          <className>runners.TestParallelRunner</className>
+          <testName>runScenario</testName>
+          <skipped>false</skipped>
+          <errorStackTrace>java.lang.AssertionError: 
+
+Expecting actual&apos;s toString() to return:
+  &quot;Fail test 1&quot;
+but was:
+  &quot;Hanoi, VN&quot;
+</errorStackTrace>
+          <errorDetails>
+Expecting actual&apos;s toString() to return:
+  &quot;Fail test 1&quot;
+but was:
+  &quot;Hanoi, VN&quot;</errorDetails>
+          <stdout>14:37:47.224 [TestNG-PoolService-2] INFO  core.utils.DriverManageUtils - ------------- Closed the browser -------------
+</stdout>
+          <failedSince>5</failedSince>
+        </case>
+        <case>
+          <duration>27.645</duration>
+          <className>runners.TestSerialRunner</className>
+          <testName>runScenario</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+      </cases>
+    </suite>
+  </suites>
+  <duration>34.637</duration>
+  <keepLongStdio>false</keepLongStdio>
+</result>

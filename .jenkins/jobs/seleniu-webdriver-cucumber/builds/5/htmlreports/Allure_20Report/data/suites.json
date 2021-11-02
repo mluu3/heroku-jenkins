@@ -1,0 +1,65 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Search with invalid key",
+    "children" : [ {
+      "name" : "search with valid key and invalid key",
+      "uid" : "3e3883bc18ffbdca",
+      "parentUid" : "adff7075d28619f8183588d38f858174",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635838643977,
+        "stop" : 1635838666196,
+        "duration" : 22219
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Hanoi, VN", "Ha Noi" ]
+    }, {
+      "name" : "search with valid key and invalid key",
+      "uid" : "5d344c8420916f9c",
+      "parentUid" : "adff7075d28619f8183588d38f858174",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635838643982,
+        "stop" : 1635838666955,
+        "duration" : 22973
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Vung Tau, VN", "Vung Tau" ]
+    }, {
+      "name" : "search with valid key and invalid key",
+      "uid" : "6629fc14253b06cd",
+      "parentUid" : "adff7075d28619f8183588d38f858174",
+      "status" : "failed",
+      "time" : {
+        "start" : 1635838643986,
+        "stop" : 1635838667226,
+        "duration" : 23240
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Fail test 1", "Ha Noi" ]
+    } ],
+    "uid" : "adff7075d28619f8183588d38f858174"
+  }, {
+    "name" : "Search",
+    "children" : [ {
+      "name" : "search with valid key",
+      "uid" : "7efaf5f6f0b900c3",
+      "parentUid" : "be3151f8b882d0c00c9fb35012f49657",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635838643977,
+        "stop" : 1635838666390,
+        "duration" : 22413
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "be3151f8b882d0c00c9fb35012f49657"
+  } ]
+}

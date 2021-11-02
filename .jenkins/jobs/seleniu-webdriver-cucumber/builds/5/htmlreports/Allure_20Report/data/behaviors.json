@@ -1,0 +1,73 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Search with invalid key",
+    "children" : [ {
+      "name" : "search with valid key and invalid key",
+      "children" : [ {
+        "name" : "search with valid key and invalid key",
+        "uid" : "3e3883bc18ffbdca",
+        "parentUid" : "f115e0204b1e92e329b1cc21c1ed08ca",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635838643977,
+          "stop" : 1635838666196,
+          "duration" : 22219
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Hanoi, VN", "Ha Noi" ]
+      }, {
+        "name" : "search with valid key and invalid key",
+        "uid" : "5d344c8420916f9c",
+        "parentUid" : "f115e0204b1e92e329b1cc21c1ed08ca",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635838643982,
+          "stop" : 1635838666955,
+          "duration" : 22973
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Vung Tau, VN", "Vung Tau" ]
+      }, {
+        "name" : "search with valid key and invalid key",
+        "uid" : "6629fc14253b06cd",
+        "parentUid" : "f115e0204b1e92e329b1cc21c1ed08ca",
+        "status" : "failed",
+        "time" : {
+          "start" : 1635838643986,
+          "stop" : 1635838667226,
+          "duration" : 23240
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Fail test 1", "Ha Noi" ]
+      } ],
+      "uid" : "f115e0204b1e92e329b1cc21c1ed08ca"
+    } ],
+    "uid" : "e139e8b0ad6a9de42401f19336f3ab9e"
+  }, {
+    "name" : "Search",
+    "children" : [ {
+      "name" : "search with valid key",
+      "children" : [ {
+        "name" : "search with valid key",
+        "uid" : "7efaf5f6f0b900c3",
+        "parentUid" : "2ca5ac56be53883d68a400aa1a167705",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635838643977,
+          "stop" : 1635838666390,
+          "duration" : 22413
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2ca5ac56be53883d68a400aa1a167705"
+    } ],
+    "uid" : "b4c391a54a6b5af78881245cab8481cb"
+  } ]
+}
